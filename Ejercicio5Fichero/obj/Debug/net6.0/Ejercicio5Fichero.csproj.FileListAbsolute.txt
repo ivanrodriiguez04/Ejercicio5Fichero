@@ -1,0 +1,15 @@
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\bin\Debug\net6.0\Ejercicio5Fichero.exe
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\bin\Debug\net6.0\Ejercicio5Fichero.deps.json
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\bin\Debug\net6.0\Ejercicio5Fichero.runtimeconfig.json
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\bin\Debug\net6.0\Ejercicio5Fichero.dll
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\bin\Debug\net6.0\Ejercicio5Fichero.pdb
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\Ejercicio5Fichero.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\Ejercicio5Fichero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\Ejercicio5Fichero.AssemblyInfoInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\Ejercicio5Fichero.AssemblyInfo.cs
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\Ejercicio5Fichero.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\Ejercicio5Fichero.dll
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\refint\Ejercicio5Fichero.dll
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\Ejercicio5Fichero.pdb
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\Ejercicio5Fichero.genruntimeconfig.cache
+C:\Users\ivanr\OneDrive\Escritorio\programacion 23-24\Ejercicio5Fichero\Ejercicio5Fichero\obj\Debug\net6.0\ref\Ejercicio5Fichero.dll
